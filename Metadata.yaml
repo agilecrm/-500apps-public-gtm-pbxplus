@@ -1,0 +1,7 @@
+homepage: "https://pbxplus.com"
+documentation: ""
+versions:
+  # Latest version
+  - sha: a2d425b6d3aa2cff27a553d8f3dc9ac16acfe68e
+    changeNotes: Pbxplus GTM.
+ 
