@@ -120,8 +120,8 @@ scenarios:
   code: |-
     const mockData = {
       // Mocked field values
-      form_key:"ZGV2LTI4MTQtMTE5Ni0xMTEz",
-      element_id:"id"
+      api_key:"ZGV2LTI4MTQtMTE5Ni0xMTEz",
+      
     };
 
     // Call runCode to run the template's code.
