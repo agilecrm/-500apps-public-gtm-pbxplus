@@ -1,4 +1,4 @@
-# 𝐏bxplus 𝐛𝐲 𝟓𝟎𝟎𝐚𝐩𝐩𝐬
+# PBX Plus by 500apps
 PBX Plus is an advanced communications system and IVR for your business needs. Configure the call flow to allow for automatic forwarding so that employees can spend their time on building long-lasting customer relationships. Add new numbers, change call flows and use existing numbers so your customers are sure to reach you each and every time they call. Gain a better understanding of your customers and your call flow process with the ability to analyse the data and generate call reports. 
 
 Understand decisions made by customers so you can make educated business decisions based on what options the customer chooses on calls. Multi-level menus, unlimited call minutes, business hours, music-on-hold, dial by name, outbound dialer, conference rooms, forwarding, voicemail transcriptions, click to call, and much more at one place with PBX Plus.
