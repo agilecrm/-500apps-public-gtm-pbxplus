@@ -3,9 +3,9 @@ PBXPlus is an advanced communications system and IVR for your business needs. Co
 
 Understand decisions made by customers so you can make educated business decisions based on what options the customer chooses on calls. Multi-level menus, unlimited call minutes, business hours, music-on-hold, dial by name, outbound dialer, conference rooms, forwarding, voicemail transcriptions, click to call, and much more at one place with PBXPlus.
 
-[Get Started](pbxplus.com) with easy to use and configurable virtual PBX application. 
+[Get Started](https://pbxplus.com) with easy to use and configurable virtual PBX application. 
 
-Automate call processes, optimize team productivity, and improve customer experience with best-in-class virtual phone system.- PBXPlus(pbxplus.com)
+Automate call processes, optimize team productivity, and improve customer experience with best-in-class virtual phone system.- PBXPlus(https://pbxplus.com)
 Sign in to your Google account.
 
 Go to the Google Tag Manager home and click on the Create Account button on the right
@@ -17,25 +17,32 @@ You will get a container with a code snippet. Copy the code and paste it into ev
 
 ### Installation 
 
-1. Adding the PBXPlus tag to your website once you're logged in to your account with the container, it's time to add a new tag with the PBXPlus tracking code inside it. To do so, follow these steps
-In the Google Tag Manager Home, click on the New Tag tile.
+ Adding the PBXPlus tag to your website once you're logged in to your account with the container, it's time to add a new tag with the PBXPlus tracking code inside it. To do so, follow these steps
+
+
+1. In the Google Tag Manager Home, click on the New Tag tile.
 
 
 2. Click on the Tag Configuration tile and search for our community template 'PBXPlus by 500apps' in the 'Community Template Gallery'.
 
 
 3. Click on ‘Add to workspace’ to select the template and add it to your workspace
-After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
 
-4. Find the individually generated PBXPlus key in each call flow, copy and place the key in the field provided in the Tag Configuration. You can find the PBXPlus key in the Share Script slide bar in the PBXPlus web application for each call flow. Just click on Google Tag Manager in the Share Script slide bar and you can find the key and the instructions.
+4. After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
 
-5. Then navigate to “Triggering” and select “All Pages” in the provided list
-Save your tag and click on “Publish” so the tag information is pushed to the website through the GTM snippet previously pasted in your website.
+5. In the PBXPlus web application click on the share icon in the desired call flow and in the slide out find the PBX Plus key generated for that particular call flow. Copy and place the key in the field provided in the Tag Configuration. Click on Google Tag Manager in the Share Script slide bar and you can find the key along with the instructions.
 
 
-6. That’s it. You can now visit your website and start using PBXPlus.
+6. Then navigate to “Triggering” and select “All Pages” in the provided list
+
+
+7. Save your tag and click on “Publish” so the tag information is pushed to the website through the GTM snippet  previously pasted in your website.
+
+
+8. That’s it. You can now visit your website and start using PBXPlus.
+
 
 
 ### Support
