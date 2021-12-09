@@ -32,7 +32,7 @@ You will get a container with a code snippet. Copy the code and paste it into ev
 4. After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
 
-5. In the PBXPlus web application click on the share icon in the desired call flow and in the slide out find the PBX Plus key generated for that particular call flow. Copy and place the key in the field provided in the Tag Configuration. Click on Google Tag Manager in the Share Script slide bar and you can find the key along with the instructions.
+5. In the PBXPlus web application click on the share icon in the desired call flow and in the slide out find the PBXPlus key generated for that particular call flow. Copy and place the key in the field provided in the Tag Configuration. Click on Google Tag Manager in the Share Script slide bar and you can find the key along with the instructions.
 
 
 6. Then navigate to “Triggering” and select “All Pages” in the provided list
